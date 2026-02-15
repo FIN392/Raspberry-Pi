@@ -48,22 +48,22 @@ Select your SD card and click '*NEXT*'
 ### Customisation
 
 - Hostname = '*myraspberrypi*'
-
+ 
 - Capital city = '*Madrid (Spain)*' 
 - Time zone = '*Europe/MAdrid*' 
 - Keyboard layout = '*es*' 
-
+ 
 - Username = '*myuser*'
 - Password = '*mypassword*'
 - Confirm apssword = '*mypassword*'
-
+ 
 - SSID = '*mywifi*'
 - Password = '*mywifipassword*'
 - Confirm apssword = '*mywifipassword*'
-
+ 
 - Enable SSH = ON
 - Authentication mechanism = Use password authentication
-
+ 
 - Enable Raspberry Pi Connect = OFF
 
 ***DO NOT WRITE JET***
@@ -77,10 +77,6 @@ Click '*APP OPTIONS*'
 - Enable anonymous statiscs (telemetry) = OFF
 - Disable warnings = OFF
 - Content Repository = '*Raspberry Pi (default)*'
-
-### Writing
-
-Click '*WRITE*'
 
 ### Writting
 
