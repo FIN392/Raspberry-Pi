@@ -31,43 +31,50 @@ Download [Raspberry Pi Imager](https://www.raspberrypi.org/software/).
 
 Install it and launch it.
 
-<img width="640" alt="image" src="assets/setup-1.png" />
+<img width="852" height="602" alt="image" src="https://github.com/user-attachments/assets/a9ccdd69-b9d2-4593-9191-a921fc7cbf88" />
 
-Click '*CHOOSE DEVICE*' and select '*Raspberry Pi 2 - Model B*'.
+### OS
 
-Click '*CHOOSE OS*' and select '*Raspberry Pi OS (other)* / *Raspberry Pi OS Lite (32-bit)*'.
+Select '*Raspberry Pi 2*' and click '*NEXT*'.
 
-Clock '*CHOOSE STORAGE*' and select your SD card.
+Select '*Raspberry Pi OS (other)*', '*Raspberry Pi OS Lite (32-bit)*' and click '*NEXT*'.
 
-Click '*NEXT*'.
+### Storage
 
-<img width="640" alt="image" src="assets/setup-2.png" />
+Select your SD card and click '*NEXT*'.
 
-Click '*EDIT SETTING*'
+### Customisation
 
-In the 'OS Customisation' window, set these things up:
+Hostname = '*myraspberrypi*'
 
-### General
+Capital city = '*Madrid (Spain)*'
+Time zone = '*Europe/MAdrid*'
+Keyboard layout = '*es*'
 
-Set hostname = fin392pi.local
+Username = '*myuser*'
+Password = '*mypassword*'
+Confirm apssword = '*mypassword*'
 
-Set username and password
-- Username = fin392
-- Password = abc123
+SSID = '*mywifi*'
+Password = '*mywifipassword*'
+Confirm apssword = '*mywifipassword*'
 
-Configure wireless LAN
-- SSID = WLAN_1234
-- Passowrd = ABCD1234ABCD
-- Hidden SSID = OFF
-- Wireless LAN country = ES
+Enable SSH = ON
+Authentication mechanism = Use password authentication
 
-Set locale settings
-- Time zone = Europe/Madrid
-- Keyboard layout = es
+Enable Raspberry Pi Connect = OFF
 
-### Services
+### Writting
 
-Enable SSH = Use password authentication
+Click '*WRITE*'
+
+Ciclk '*I UNDERSTAND, ERASE AND WRITE*'
+
+
+
+
+
+
 
 ### Options
 
