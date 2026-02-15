@@ -131,7 +131,7 @@ Host key verification failed.
 ...you just need to delete this file:
 
 ```
-C:\> del  C:\Users\fin392\.ssh\known_hosts
+C:\> del  %USERPROFILE%\.ssh\known_hosts
 ```
 
 If the following message is displayed...
