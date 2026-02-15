@@ -47,13 +47,13 @@ Select your SD card and click '*NEXT*'
 
 ### Customisation
 
-- Hostname = '*myraspberrypi*'
+- Hostname = '*fin392pi*'
+
+- Capital city = '*Madrid (Spain)*'
+- Time zone = '*Europe/MAdrid*'
+- Keyboard layout = '*es*'
  
-- Capital city = '*Madrid (Spain)*' 
-- Time zone = '*Europe/MAdrid*' 
-- Keyboard layout = '*es*' 
- 
-- Username = '*myuser*'
+- Username = '*fin392*'
 - Password = '*mypassword*'
 - Confirm apssword = '*mypassword*'
  
@@ -88,7 +88,7 @@ Ciclk '*I UNDERSTAND, ERASE AND WRITE*'
 
 *(From your Raspberry Pi)*
 
-Plug a monitor into the HDMI port, insert the SD card, and power it on.
+Plug a monitor into the HDMI port, insert the SD card, and power it on. No keyboard or mouse required.
 
 Give it a few minutes (it might restart a couple of times). You should see something like this:
 
