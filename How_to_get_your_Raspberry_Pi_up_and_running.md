@@ -33,9 +33,11 @@ Install it and launch it.
 
 <img width="852" height="602" alt="image" src="https://github.com/user-attachments/assets/a9ccdd69-b9d2-4593-9191-a921fc7cbf88" />
 
-### OS
+### Device
 
 Select '*Raspberry Pi 2*' and click '*NEXT*'.
+
+### OS
 
 Select '*Raspberry Pi OS (other)*', '*Raspberry Pi OS Lite (32-bit)*' and click '*NEXT*'.
 
@@ -64,37 +66,27 @@ Authentication mechanism = Use password authentication
 
 Enable Raspberry Pi Connect = OFF
 
+***DO NOT WRITE JET***
+
+### APP OPTIONS
+
+Click '*APP OPTIONS*'
+
+Play sound when finished = OFF
+Eject media when finiches = OFF
+Enable anonymous statiscs (telemetry) = OFF
+Disable warnings = OFF
+Content Repository = '*Raspberry Pi (default)*'
+
+### Writing
+
+Click '*WRITE*'
+
 ### Writting
 
 Click '*WRITE*'
 
 Ciclk '*I UNDERSTAND, ERASE AND WRITE*'
-
-
-
-
-
-
-
-### Options
-
-Play sound when finished = OFF
-
-Eject media when finished = ON
-
-Enable telemetry = OFF
-
-<img width="640" alt="image" src="assets/setup-3.png" />
-
-Click '*YES*'
-
-<img width="640" alt="image" src="assets/setup-4.png" />
-
-Click '*YES*'
-
-<img width="640" alt="image" src="assets/setup-5.png" />
-
-Click '*CONTINUE*'
 
 ## <a name="startup"></a>First boot
 
