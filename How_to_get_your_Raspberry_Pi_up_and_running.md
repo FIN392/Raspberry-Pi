@@ -49,9 +49,9 @@ Select your SD card and click '*NEXT*'.
 
 Hostname = '*myraspberrypi*'
 
-Capital city = '*Madrid (Spain)*'
-Time zone = '*Europe/MAdrid*'
-Keyboard layout = '*es*'
+Capital city = '*Madrid (Spain)*' 
+Time zone = '*Europe/MAdrid*' 
+Keyboard layout = '*es*' 
 
 Username = '*myuser*'
 Password = '*mypassword*'
